@@ -331,7 +331,7 @@ nav button:hover {
 .highlight-claim::after {
     content: "";
     position: absolute;
-    bottom: -92rem;
+    bottom: -94rem;
     left: 55.5rem;
     right: 5rem;
     width: 490px;
