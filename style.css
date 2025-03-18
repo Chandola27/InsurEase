@@ -328,7 +328,7 @@ nav button:hover {
 .highlight-claim{
     color:#7657e3 ;
 }
-.highlight-claim::after {
+/* .highlight-claim::after {
     content: "";
     position: absolute;
 /*   top: 2rem; */
@@ -340,7 +340,7 @@ nav button:hover {
     z-index: -1;
     background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/664131/underline.svg);
     background-repeat: no-repeat;
-}
+} */
 .img img{
     width: 600px;
 
